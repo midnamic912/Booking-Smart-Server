@@ -1,6 +1,6 @@
 # Booking-Smart-Server
 
-a Node.js Express server for Booking-Smart Chrome Extension
+a Node.js Express server hosted on AWS for Booking-Smart Chrome Extension
 see <a href="https://github.com/midnamic912/Booking-Smart">Booking-Smart Extension page</a>
 
 
