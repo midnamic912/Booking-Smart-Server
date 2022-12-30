@@ -11,6 +11,7 @@ Example 1             |  Example 2
 :-------------------------:|:-------------------------:
 ![](https://imgur.com/apYAUrU.png)  |  ![](https://i.imgur.com/W24SSS6.jpg)
 
+<h3>Full Demo: https://imgur.com/a/PqphHLs</h3>
 
 # Features:
 
